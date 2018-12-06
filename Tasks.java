@@ -16,7 +16,7 @@ public class Tasks extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.Tasks);
+        setContentView(R.layout.tasks);
 
 
     }
